@@ -12,7 +12,7 @@ setuptools.setup(
     description="A high quality multi-voice text-to-speech library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/neonbjb/tortoise-tts",
+    url="https://github.com/grajmr/tortoise-tts-gra",
     project_urls={},
     install_requires=[
         'tqdm',
